@@ -1,5 +1,7 @@
 /* STRANGE ATTRACTOR PROGRAM  QuickC Ver 2.0 (c) 1993 by J. C. Sprott */
 
+/* SEE http://sprott.physics.wisc.edu/sa.htm */
+
 #include <dos.h>
 #include <stdio.h>
 #include <graph.h>
